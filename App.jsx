@@ -1,11 +1,12 @@
+import React from 'react';
 
 function App() {
   return (
-    <div>
+    <div style={{ textAlign: 'center', padding: '50px' }}>
       <h1>NutriTech Pro</h1>
-      <p>Uygulama başarılı şekilde çalışıyor 🎉</p>
+      <p>Gıda mühendisleri için profesyonel araçlar burada!</p>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
